@@ -1,9 +1,11 @@
 # Twitter
 
-![](assets/images/twiit.png)
+![image](https://user-images.githubusercontent.com/32856885/38881821-5dd4646e-422e-11e8-8aa1-dd3445553a80.png)
 
-El proyecto de twitter se utilizó javascript, html, css para el diseño de la página de Twitter y para la funcionalidad del textarea.
+En este proyecto se recreó la funcionalidad del textarea de twitter.
+
+Las herramientas que se utilizaron fueron javascript, html y  css para el diseño de la página de Twitter.
 
 Cabe destacar que el proyecto se realizo en equipo, fue el primer trabajo en equipo que realice en laboratoria.
 
-proyecto hecho para labaoratoria.
+#### Proyecto hecho para labaoratoria.
